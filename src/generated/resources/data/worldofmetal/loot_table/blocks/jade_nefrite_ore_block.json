@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "worldofmetal:jade_nefrite_ore_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "worldofmetal:blocks/jade_nefrite_ore_block"
+}
